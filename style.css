@@ -1,0 +1,13 @@
+#buttonNew{
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    position: fixed;
+    border:5px;
+
+
+}
+
+button{
+width: 200px;
+}
